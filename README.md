@@ -35,8 +35,8 @@ This project is an IoT-based health and environment monitoring system using the 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/iot-health-environment-monitoring.git
-   cd iot-health-environment-monitoring
+   git clone https://github.com/abdulrafay517/iot-health-and-monitoring.git
+   cd iot-health-and-monitoring
    ```
 
 2. **Install Arduino Libraries:**
